@@ -13,6 +13,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.rehan.jetpackcomposealldependencies.ui.theme.JetpackComposeAllDependenciesTheme
 
+// This is MainActivity
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
