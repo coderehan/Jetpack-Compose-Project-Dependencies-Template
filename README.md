@@ -11,6 +11,7 @@ This template includes all the essential libraries, tools, and configurations co
 - ✅ Jetpack Compose (Material 3)
 - ✅ Navigation Component for Compose
 - ✅ Hilt for Dependency Injection
+- ✅ Koin for Dependency Injection
 - ✅ Retrofit + OkHttp for Networking
 - ✅ Room Database
 - ✅ Kotlin Coroutines + Flow
