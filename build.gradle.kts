@@ -11,4 +11,7 @@ plugins {
 
     // Kotlin KAPT (Kotlin Annotation Processing Tool) for Dagger, Room, etc.
     alias(libs.plugins.kotlin.kapt) apply false
+
+    // Hilt Dependency Plugin
+    alias(libs.plugins.hilt) apply false
 }
